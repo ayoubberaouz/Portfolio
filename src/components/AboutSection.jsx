@@ -3,8 +3,8 @@ import { Button } from "@mui/material";
 const handleDownloadCV = () => {
   const link = document.createElement("a");
 
-  link.href = "my_cv/Ayoub beraouz.pdf";
-  link.download = "my_cv/Ayoub beraouz.pdf"; // Customize the downloaded filename if needed
+  link.href = "my_cv/Ayoub_Beraouz.pdf";
+  link.download = "my_cv/Ayoub_Beraouz.pdf"; // Customize the downloaded filename if needed
 
   document.body.appendChild(link);
   link.click();
