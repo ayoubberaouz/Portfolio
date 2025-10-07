@@ -30,7 +30,10 @@
 
 ## 🚀 Introduction
 
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
+Welcome to my personal portfolio — a modern and responsive website built with **React**, **Vite**, **TailwindCSS**, and **Lucide Icons**.
+This portfolio showcases my journey as a developer, featuring my latest projects, technical skills, and professional experience.
+Designed with performance and usability in mind, it includes dark mode, smooth animations, and a clean interface that adapts beautifully to any device.
+Explore my work, discover my approach to development, and feel free to get in touch for collaboration or opportunities.
 
 ---
 
